@@ -13,6 +13,7 @@ import Resume from '../pages/Resume';
 import Contact from '../pages/Contact';
 import Judges from '../pages/Judges';
 import Publications from '../pages/Publications';
+import ContactFrom from '../component/ContactFrom';
 
 const Routes = createBrowserRouter ([
     {
@@ -60,6 +61,10 @@ const Routes = createBrowserRouter ([
             {
                 path:"/publications",
                 element:<Publications></Publications>
+            },
+            {
+                path:"/contactfrom",
+                element:<ContactFrom></ContactFrom>
             },
         ]
     }

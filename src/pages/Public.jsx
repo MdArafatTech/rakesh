@@ -66,8 +66,8 @@ const Public = () => {
               conference.
             </p>
 
-            <Link>
-              <div className="btn bg-orange-600 text-white h-12 w-40 mb-5 hover:bg-orange-300 hover:text-gray-700 flex items-center justify-center">
+            <Link to='/contact'>
+              <div className="btn bg-orange-600 text-white h-12 w-40 mb-5 rounded-xl hover:bg-orange-300 hover:text-gray-700 flex items-center justify-center">
                 Get In Touch
               </div>
             </Link>

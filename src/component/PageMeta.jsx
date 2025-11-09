@@ -19,7 +19,7 @@ const PageMeta = () => {
 
   useEffect(() => {
     const title = pageTitles[location.pathname] || "Page";
-    document.title = `${title} / RakeshDatt`;
+    document.title = `${title} / Rakesh Datta`;
     window.scrollTo(0, 0);
   }, [location]);
 
