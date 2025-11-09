@@ -1,0 +1,37 @@
+[
+  {
+    "title": "Indian Cyber Security Architect Rakesh Datta On A Mission To Reduce The USA's Cybersecurity Skills Gap",
+    "content": "In a significant move to address the cybersecurity skills shortage in the United States, Indian cybersecurity architect Rakesh Datta, renowned for his transformative contributions to the technology sector, has been...",
+    "image": "/src/assets/md1.png"
+  },
+  {
+    "title": "Rakesh Datta: Building Microsoft's disruptive network security product",
+    "content": "In a ground-breaking move, tech giant Microsoft has taken a momentous leap into the newest trending network security space, disrupting the industry and prompting a ripple effect that left established players Palo Alto Networks and Zscaler reeling. The seismic event occurred on July 11, when Microsoft unveiled...",
+    "image":"/src/assets/md2.png"
+  },
+  {
+    "title": "Indian Engineers Shine In Facebook's Whitehat Bug Bounty Awards Programme",
+    "content": "The Facebook Bug Bounty Award stands as a pinnacle in the realms of ethical hacking and cybersecurity. Much like other major technology companies, Facebook operates a bug bounty program, encouraging security researchers and ethical hackers to identify and responsibly disclose vulnerabilities in their product",
+    "image": "/src/assets/md3.png"
+  },
+  {
+    "title": "Indian Achievers’ Forum Honors Mr Rakesh Datta At the 64th National Summit & Awards 2023",
+    "content": "The Indian Achievers’ Forum, unwavering in its mission to recognize and celebrate outstanding accomplishments, has successfully concluded its 64th National Summit and Awards for 2023. This annual gathering serves as a vibrant platform to applaud and inspire a diverse range of contributors.",
+    "image": "/src/assets/md4.png"
+  },
+  {
+    "title": "Rakesh Datta, Microsoft's Network Security leader, awarded with India's top honour Indian Achievers Award 2023",
+    "content": "The Indian Achievers' Forum successfully concluded its 36th National Summit and Awards in Dubai, UAE, and the 64th National Summit and Awards in New Delhi, India. These prestigious awards were presented by esteemed chief guests, Dr Mohammed Saeed Al Kindi, former Minister of Environment",
+    "image": "/src/assets/md5.png"
+  },
+  {
+    "title": "Cloudflare, Palo Alto Networks and Zscaler tumble as Microsoft expands in cybersecurity",
+    "content": "Cloudflare, Palo Alto Networks and Zscaler shares all declined Wednesday after analysts noted Microsoft’s entry into a part of the cybersecurity market where those three smaller companies already compete. Palo Alto and Zscaler shares both slid about 7%, while Cloudflare shares fell 5.5%.",
+    "image": "/src/assets/md6.png"
+  },
+  {
+    "title": "Network security leader, Datta, advocates for secure remote workforce in the era of work from home",
+    "content": "Post-pandemic remote work increases security risks as attackers exploit home devices. Rakesh Datta, an engineering leader in SASE and Zero Trust, stresses the need for modern security solutions. He highlights the shift from traditional VPNs to Zero Trust Security and the significance of practical skills for students.",
+    "image": "/src/assets/md7.png"
+  }
+]

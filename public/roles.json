@@ -1,0 +1,50 @@
+[
+  {
+    "year": 2024,
+    "position": "Board of Advisor",
+    "organization": "Strauss Center for International Security and Law",
+    "location": "UT Austin, USA"
+  },
+  {
+    "year": 2019,
+    "position": "Technical Leader",
+    "organization": "Microsoft Corporation",
+    "location": "Redmond, USA"
+  },
+  {
+    "year": 2018,
+    "position": "Principal Software Engineer",
+    "organization": "Dell Inc",
+    "location": "San Jose, USA"
+  },
+  {
+    "year": 2017,
+    "position": "Member of Technical Staff",
+    "organization": "Viasat",
+    "location": "San Jose, USA"
+  },
+  {
+    "year": 2012,
+    "position": "Software Development Engineer III",
+    "organization": "CISCO Systems",
+    "location": "India"
+  },
+  {
+    "year": 2011,
+    "position": "Senior R&D Engineer",
+    "organization": "Avaya Inc",
+    "location": "India"
+  },
+  {
+    "year": 2008,
+    "position": "Senior Software Engineer",
+    "organization": "WIPRO",
+    "location": "India"
+  },
+  {
+    "year": 2005,
+    "position": "CEO and Co-founder",
+    "organization": "C’eased",
+    "location": "India"
+  }
+]

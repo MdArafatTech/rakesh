@@ -1,0 +1,74 @@
+import React from "react";
+import { FaLinkedin } from "react-icons/fa";
+import { MdEmail } from "react-icons/md";
+import fimg from "../assets/Rakesh-Datta.png";
+
+import { Link } from "react-router";
+
+const Footer = () => {
+  return (
+    <footer className="footer bg-black text-white  w-full  bottom-0 p-8 grid lg:grid-cols-3 md:grid-cols-3 sm:grid-cols-1 place-items-center  ">
+      {/* Navigation Links */}
+      <nav className="flex flex-col gap-2   font-medium items-center md:items-start">
+        <a className="hover:text-amber-300" href="/">
+          Home
+        </a>
+        <a className="hover:text-amber-300" href="/about">
+          About
+        </a>
+        <a className="hover:text-amber-300" href="/publication">
+          Publications
+        </a>
+        <a className="hover:text-amber-300" href="/public">
+          Speaking
+        </a>
+        <a className="hover:text-amber-300" href="/roles">
+          Roles
+        </a>
+        <a className="hover:text-amber-300" href="/resume">
+          Resume
+        </a>
+        <a className="hover:text-amber-300" href="/contact">
+          Contact
+        </a>
+      </nav>
+
+      {/* Social Section */}
+      <div className="flex flex-col items-center gap-3 mt-4 md:mt-0">
+        <h1 className="font-bold text-xl">Social</h1>
+        <div className="flex gap-3">
+          <a
+            href="https://www.linkedin.com/in/rakeshdatta/"
+            target="_blank"
+            rel="noopener noreferrer"
+            className="p-2 bg-blue-500 text-xl rounded-full text-white hover:scale-110 transition-transform"
+          >
+            <FaLinkedin />
+          </a>
+          <a
+            href="mailto:rakesh.datt6@gmail.com"
+            className="p-2 bg-red-500 text-xl rounded-full text-white hover:scale-110 transition-transform"
+          >
+            <MdEmail />
+          </a>
+        </div>
+      </div>
+
+      {/* Logo */}
+      <div className="flex justify-center mt-4 md:mt-0">
+       <a href="/"> <img className="h-32 cursor-pointer" src={fimg} alt="Footer Logo" /></a>
+      </div>
+
+      <Link
+        to="https://github.com/MdArafatTech"
+        className=" bottom-0  left-0 my-3"
+      >
+        <h1 className="font-bold  italic text-center items-center">
+          Designed By ArafatTECH
+        </h1>
+      </Link>
+    </footer>
+  );
+};
+
+export default Footer;
