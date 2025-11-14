@@ -6,8 +6,8 @@ const pageTitles = {
   "/about": "About",
   "/roles": "Roles",
   "/award": "Award",
-  "/media": "Media",
-  "/judges": "Judges",
+  "/media": "Media covarage",
+  "/judges": "Invited Judges",
   "/public": "Public Speaking",
   "/resume": "Resume",
   "/contact": "Contact",
@@ -19,7 +19,7 @@ const PageMeta = () => {
 
   useEffect(() => {
     const title = pageTitles[location.pathname] || "Page";
-    document.title = `${title} / Rakesh Datta`;
+    document.title = `${title} - Rakesh Datta`;
     window.scrollTo(0, 0);
   }, [location]);
 
