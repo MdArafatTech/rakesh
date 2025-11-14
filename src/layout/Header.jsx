@@ -2,6 +2,7 @@ import React, { useState, useEffect } from "react";
 import { Link } from "react-router-dom";
 import { FaBars, FaTimes } from "react-icons/fa";
 import navimg from "../assets/Rakesh-Datta.png";
+import { Links } from "react-router";
 
 const Header = () => {
   const [open, setOpen] = useState(false);
@@ -73,7 +74,7 @@ const Header = () => {
         }`}
       >
         <div className="flex justify-between items-center p-4 border-b border-gray-700">
-          <img src={navimg} alt="Logo" className="h-12 w-auto" />
+        <a href="/">  <img src={navimg} alt="Logo" className="h-20 w-auto" /></a>
           <FaTimes
             className="text-2xl cursor-pointer"
             onClick={() => setOpen(false)}

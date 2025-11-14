@@ -29,7 +29,7 @@ const judgesData = [
 
 const Judges = () => {
   return (
-    <div className="judges bg-black text-white px-[2%] lg:px-[10%] py-16">
+    <div className="judges bg-black text-white px-[5%] lg:px-[10%] py-16">
       <h1 className="font-bold text-3xl lg:text-6xl tracking-wide uppercase mb-5 mt-5 text-center">
         Invited Judges
       </h1>
